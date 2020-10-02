@@ -4,7 +4,7 @@ title: About
 ---
 
 I am Divya, a senior developer at Zulily.
-I like solving challenging problems and playig with my 8 month old daughter.
+I like solving challenging problems and playing with my 8 month old daughter.
 
 ## Current Role
 
